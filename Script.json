@@ -1,12 +1,87 @@
 {
-   "settingsReloadIntervalMinutes": 1,
-   "fullscreen": false,
-   "autoStart": false,
-   "lazyLoadTabs": false,
-   "closeExistingTabs": false,
-   "websites": {
-      "url": "https://app.powerbi.com/groups/99bcc8cf-651d-427f-a5a5-47f2be90c1c0/reports/4a778477-901a-42d0-9033-ba70518359aa/6c50728f7a2013347d0e?chromeless=true&experience=power-bi",
+
+  "settingsReloadIntervalMinutes": 1,
+
+  "fullscreen": false,
+
+  "autoStart": false,
+
+  "lazyLoadTabs": false,
+
+  "closeExistingTabs": false,
+
+  "websites": [
+
+    {
+
+      "url": "https://app.powerbi.com/groups/99bcc8cf-651d-427f-a5a5-47f2be90c1c0/reports/4a778477-901a-42d0-9033-ba70518359aa/2bab128dbdc0e3446096?chromeless=true&experience=power-bi",
+
       "duration": 20,
+
       "tabReloadIntervalSeconds": 3600
-   }
+
+    },
+
+    {
+
+      "url": "https://app.powerbi.com/groups/99bcc8cf-651d-427f-a5a5-47f2be90c1c0/reports/4a778477-901a-42d0-9033-ba70518359aa/ac7ea8e5489a447c9954?chromeless=true&experience=power-bi",
+
+      "duration": 20,
+
+      "tabReloadIntervalSeconds": 3600
+
+    },
+
+{
+
+      "url": "https://app.powerbi.com/groups/99bcc8cf-651d-427f-a5a5-47f2be90c1c0/reports/4a778477-901a-42d0-9033-ba70518359aa/ad955253070c0a753d27?chromeless=true&experience=power-bi",
+
+      "duration": 20,
+
+      "tabReloadIntervalSeconds": 3600
+
+    },
+
+{
+
+      "url": "https://app.powerbi.com/groups/99bcc8cf-651d-427f-a5a5-47f2be90c1c0/reports/4a778477-901a-42d0-9033-ba70518359aa/e02d7d85a07392501683?chromeless=true&experience=power-bi",
+
+      "duration": 20,
+
+      "tabReloadIntervalSeconds": 3600
+
+    },
+
+{
+
+      "url": "https://app.powerbi.com/groups/99bcc8cf-651d-427f-a5a5-47f2be90c1c0/reports/4a778477-901a-42d0-9033-ba70518359aa/023c34db355ced02b3b2?chromeless=true&experience=power-bi",
+
+      "duration": 20,
+
+      "tabReloadIntervalSeconds": 3600
+
+    },
+
+{
+
+      "url": "https://app.powerbi.com/groups/99bcc8cf-651d-427f-a5a5-47f2be90c1c0/reports/4a778477-901a-42d0-9033-ba70518359aa/6c50728f7a2013347d0e?chromeless=true&experience=power-bi",
+
+      "duration": 20,
+
+      "tabReloadIntervalSeconds": 3600
+
+    },
+
+{
+
+      "url": "https://app.powerbi.com/groups/99bcc8cf-651d-427f-a5a5-47f2be90c1c0/reports/4a778477-901a-42d0-9033-ba70518359aa/6539974572ed493b2d78?chromeless=true&experience=power-bi",
+
+      "duration": 20,
+
+      "tabReloadIntervalSeconds": 3600
+
+    }
+
+  ]
+
 }
