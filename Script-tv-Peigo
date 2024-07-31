@@ -18,7 +18,7 @@
 
       "duration": 20,
 
-      "tabReloadIntervalSeconds": 3600
+      "tabReloadIntervalSeconds": 15
 
     },  
  
@@ -28,7 +28,7 @@
  
       "duration": 20,
  
-      "tabReloadIntervalSeconds": 3600
+      "tabReloadIntervalSeconds": 15
  
     },
  
@@ -38,7 +38,7 @@
  
       "duration": 20,
  
-      "tabReloadIntervalSeconds": 3600
+      "tabReloadIntervalSeconds": 15
  
     },
  
@@ -48,7 +48,7 @@
  
       "duration": 20,
  
-      "tabReloadIntervalSeconds": 3600
+      "tabReloadIntervalSeconds": 15
  
     },
  
@@ -58,7 +58,7 @@
  
       "duration": 20,
  
-      "tabReloadIntervalSeconds": 3600
+      "tabReloadIntervalSeconds": 15
  
     },
  
@@ -68,7 +68,7 @@
  
       "duration": 20,
  
-      "tabReloadIntervalSeconds": 3600
+      "tabReloadIntervalSeconds": 15
  
     },
  
@@ -78,7 +78,7 @@
  
       "duration": 20,
  
-      "tabReloadIntervalSeconds": 3600
+      "tabReloadIntervalSeconds": 15
  
     }
  
