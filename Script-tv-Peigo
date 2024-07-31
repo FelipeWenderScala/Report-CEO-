@@ -12,15 +12,7 @@
  
   "websites": [
  
-    {
- 
-      "url": "https://app.powerbi.com/groups/99bcc8cf-651d-427f-a5a5-47f2be90c1c0/reports/4a778477-901a-42d0-9033-ba70518359aa/2bab128dbdc0e3446096?chromeless=true&experience=power-bi",
- 
-      "duration": 20,
- 
-      "tabReloadIntervalSeconds": 3600
- 
-    },
+   
  
     {
  
